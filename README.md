@@ -21,3 +21,6 @@ Healthcare analysis. Multiple predictive models. Exploratory analysis
 
 ### Project 6
 Predict price of eth. Time series analysis.  
+
+### Project 7
+Fake news classification. Using TensorFlow/Keras. 
