@@ -1,6 +1,7 @@
 ## Read Me
-A place to keep practice projects 
 ***currently in process of cleaning up. Adding projects and cleaning up descriptions, spelling, etc.*** 
+
+Portfolio of data analytics and data science projects
 
 ### Project 1
 Predictive model to determine what features are important in winning a Men's D1 college basketball game during the 2024/2025 season. cbb2 python file
@@ -25,3 +26,6 @@ Predict price of eth. Time series analysis.
 
 ### Project 7
 Fake news classification. Using TensorFlow/Keras. 
+
+### Project 8 
+Streamlit dashboard. Sentiment analysis. 
