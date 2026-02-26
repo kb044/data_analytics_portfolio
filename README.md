@@ -1,5 +1,5 @@
 ## Read Me
-***currently in process of cleaning up. Adding projects and cleaning up descriptions, spelling, etc.*** 
+***currently adding projects*** 
 
 Portfolio of data analytics and data science projects
 
@@ -29,3 +29,6 @@ Fake news classification. Using TensorFlow/Keras.
 
 ### Project 8 
 Streamlit dashboard. Sentiment analysis. 
+
+### Project 9 
+R markdown. Time series analysis and forecasting. 
