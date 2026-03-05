@@ -34,5 +34,5 @@ Streamlit dashboard. Sentiment analysis.
 R markdown. Time series analysis and forecasting. 
 
 ### Project 10
-Streamlit dashboard. Machine learning web app. Logistic Regression, Support Vector Machines, and Random Forest Classifiers. 
+Streamlit dashboard. Machine learning web app mushroom classification. Logistic Regression, Support Vector Machines, and Random Forest Classifiers. 
 data from: https://archive.ics.uci.edu/dataset/73/mushroom
