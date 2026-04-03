@@ -36,3 +36,6 @@ R markdown. Time series analysis and forecasting.
 ### Project 10
 Streamlit dashboard. Machine learning web app mushroom classification. Logistic Regression, Support Vector Machines, and Random Forest Classifiers. 
 data from: https://archive.ics.uci.edu/dataset/73/mushroom
+
+### Project 11
+Customer segmentation. Exploratory data analysis. K Means, SVM, Dceision Tree models. 
