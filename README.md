@@ -2,39 +2,35 @@
 
 Portfolio of data analytics and data science projects
 
-### Project 1
-Predictive model to determine what features are important in winning a Men's D1 college basketball game during the 2024/2025 season. cbb2 python file
-Data used: cbb25.csv from https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset/data
-
-### Project 2 
+### Project 1 
 Fake news detection. LSTM used to determine if string is from a fake news source or not. 
 Based on NLP Fake News Detector guided project taught by Ryan Ahmed. 
 
-### Project 3
+### Project 2
 Analysis of 1986-1987 baseball data 
 Data from: https://www.kaggle.com/datasets/mathchi/hitters-baseball-data/code
 
-### Project 4 
+### Project 3
 LoL tournament predictions. Using tensorflow and regression models
 
-### Project 5 
+### Project 4
 Healthcare analysis. Multiple predictive models. Exploratory analysis
 
-### Project 6
+### Project 5
 Predict price of eth. Time series analysis.  
 
-### Project 7
+### Project 6
 Fake news classification. Using TensorFlow/Keras. 
 
-### Project 8 
+### Project 7
 Streamlit dashboard. Sentiment analysis. 
 
-### Project 9 
+### Project 8
 R markdown. Time series analysis and forecasting. 
 
-### Project 10
+### Project 9
 Streamlit dashboard. Machine learning web app mushroom classification. Logistic Regression, Support Vector Machines, and Random Forest Classifiers. 
 data from: https://archive.ics.uci.edu/dataset/73/mushroom
 
-### Project 11
+### Project 10
 Customer segmentation. Exploratory data analysis. K Means, SVM, Dceision Tree models. 
