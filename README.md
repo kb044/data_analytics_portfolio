@@ -1,5 +1,4 @@
 ## Read Me
-***currently adding projects*** 
 
 Portfolio of data analytics and data science projects
 
