@@ -7,30 +7,29 @@ Fake news detection. LSTM used to determine if string is from a fake news source
 Based on NLP Fake News Detector guided project taught by Ryan Ahmed. 
 
 ### Project 2
-Analysis of 1986-1987 baseball data 
-Data from: https://www.kaggle.com/datasets/mathchi/hitters-baseball-data/code
-
-### Project 3
 LoL tournament predictions. Using tensorflow and regression models
 
-### Project 4
+### Project 3
 Healthcare analysis. Multiple predictive models. Exploratory analysis
 
-### Project 5
+### Project 4
 Predict price of eth. Time series analysis.  
 
-### Project 6
+### Project 5
 Fake news classification. Using TensorFlow/Keras. 
 
-### Project 7
+### Project 6
 Streamlit dashboard. Sentiment analysis. 
 
-### Project 8
+### Project 7
 R markdown. Time series analysis and forecasting. 
 
-### Project 9
+### Project 8
 Streamlit dashboard. Machine learning web app mushroom classification. Logistic Regression, Support Vector Machines, and Random Forest Classifiers. 
 data from: https://archive.ics.uci.edu/dataset/73/mushroom
 
-### Project 10
+### Project 9
 Customer segmentation. Exploratory data analysis. K Means, SVM, Dceision Tree models. 
+
+### Project 10 
+Credit risk analysis
